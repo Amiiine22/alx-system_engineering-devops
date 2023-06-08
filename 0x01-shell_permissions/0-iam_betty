@@ -1,2 +1,2 @@
 #!/bin/bash
-sudu chmod me betty
+su betty
