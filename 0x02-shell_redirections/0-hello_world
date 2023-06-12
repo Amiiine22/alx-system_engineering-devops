@@ -1,2 +1,2 @@
 #!/bin/bash
-Hello ,world > new_line.txt
+echo 'Hello, world'
